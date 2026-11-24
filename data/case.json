@@ -1,0 +1,30 @@
+{
+  "records": [
+    {
+      "id": "CL-1",
+      "text": "投保页面：经维修方建议，可先行处理紧急损失。",
+      "kind": "web-copy"
+    },
+    {
+      "id": "CL-2",
+      "text": "正式条款：经保险人批准后，合理紧急维修费用可纳入核定。",
+      "kind": "policy-clause"
+    },
+    {
+      "id": "CL-3",
+      "text": "客户称客服曾说可以先修；工单没有批准编号。",
+      "kind": "claim-note"
+    }
+  ],
+  "policy": [
+    {
+      "id": "P-8",
+      "effective_from": "2026-01-01"
+    },
+    {
+      "id": "P-9",
+      "effective_from": "2026-07-01"
+    }
+  ],
+  "case_id": "claim-1"
+}
